@@ -3,6 +3,7 @@ xiaomi.ko
 lct_tp.ko
 zsmalloc.ko
 zram.ko
+mi_mempool.ko
 tms_device_modules.ko
 pn560_device_modules.ko
 xiaomi_spi_tee.ko
@@ -34,8 +35,6 @@ c2k_usb_f_via_ets.ko
 c2k_usb_f_via_gps.ko
 c2k_usb_f_via_modem.ko
 c2k_usb_f_via_pcv.ko
-asix.ko
-ax88179_178a.ko
 mtk_u_ether.ko
 mtk_usb_f_rndis.ko
 rps_perf.ko
@@ -169,5 +168,7 @@ spmtwam.ko
 mtk_disp_sec.ko
 binder_prio.ko
 hq_CPU_temp.ko
+cpq.ko
 mi_thermal_message.ko
 hq_charge_temp.ko
+perfhelper.ko

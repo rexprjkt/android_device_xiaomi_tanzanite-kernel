@@ -3,6 +3,7 @@ bootprof.ko
 dbgtop-drm.ko
 mrdump.ko
 mtk_disp_notify.ko
+hq_notify.ko
 aee_aed.ko
 aee_hangdet.ko
 monitor_hang.ko
@@ -62,6 +63,7 @@ mt635x-auxadc.ko
 mt6375-adc.ko
 mt6375-auxadc.ko
 mt6577_auxadc.ko
+miev.ko
 mi-memory.ko
 mtk_panel_ext.ko
 panel-o7-38-0c-0a-dsc-vdo.ko
@@ -148,6 +150,7 @@ main_chg.ko
 tcpc_class.ko
 hq_qc_policy.ko
 rt_pd_manager.ko
+xm_chg_dfs.ko
 hq_fuel_algorithm.ko
 pwm-mtk-disp.ko
 leds-mtk.ko
@@ -193,5 +196,7 @@ load_track.ko
 mitee.ko
 tee.ko
 hq_CPU_temp.ko
+cpq.ko
 mi_thermal_message.ko
 hq_charge_temp.ko
+perfhelper.ko
