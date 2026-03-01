@@ -200,3 +200,8 @@ cpq.ko
 mi_thermal_message.ko
 hq_charge_temp.ko
 perfhelper.ko
+xiaomi.ko
+stub_scp.ko
+switch_class.ko
+lct_tp.ko
+ft3519t.ko
